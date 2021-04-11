@@ -1,2 +1,3 @@
-# code
-Code for a test
+# code repo
+Author: Lisa Kester
+
